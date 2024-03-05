@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921295085498",
+    "project_id": "windbank-ae1f7",
+    "storage_bucket": "windbank-ae1f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921295085498:android:7f1e498a75cdda6484c783",
+        "android_client_info": {
+          "package_name": "com.starwhenry.windbank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYOK4EEFm9saTL2xpBLxZwibjTQAqhEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
